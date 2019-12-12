@@ -1,10 +1,8 @@
 # View Project Details
 
-
-
 Dev Analytics shows projects to which you have access on the Linux Foundation platform. The Projects page includes projects that are members of the Linux Foundation and of other foundations such as the Cloud Native Computing Foundation.
 
-![](../.gitbook/assets/project dashboard.png)
+![](.gitbook/assets/project-dashboard.png)
 
 **Follow these steps:**
 
@@ -26,6 +24,4 @@ Dev Analytics shows projects to which you have access on the Linux Foundation pl
    * [Pick a Time Range](https://docs.linuxfoundation.org/display/PROD/.Pick+a+Time+Range+vInitial)
    * Eliminate data by clicking the corresponding legend **caption** \(in this example **Contributors\)**. Click the **caption** again to include the data. ![](https://docs.linuxfoundation.org/download/thumbnails/7409465/contributor%20button.png?version=1&modificationDate=1575268704799&api=v2) 
    * Mouse over a color in a chart or graph to see details about the item.  ![](https://docs.linuxfoundation.org/download/thumbnails/7409465/graph.png?version=1&modificationDate=1575268902646&api=v2)  ![](https://docs.linuxfoundation.org/download/thumbnails/7409465/chart.png?version=1&modificationDate=1575268933415&api=v2)
-
-
 
