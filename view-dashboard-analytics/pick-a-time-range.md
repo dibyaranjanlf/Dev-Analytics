@@ -4,7 +4,7 @@ You can pick a time range to apply to all the data in an overview or dashboard. 
 
 **Follow these steps:**
 
-1. Open a project dashboard and click **Time Range**. The Time Range picker opens. ![](../.gitbook/assets/timerange picker.png)
+1. Open a project dashboard and click **Time Range**. The Time Range picker opens. ![](../.gitbook/assets/timerangepicker.png)
 2. Select a quick filter to apply a time range and a value: 
    * **Quick** shows preset time range values.
    * **Relative** lets you enter the relative start time. You can specify the relative start time as any number of seconds, minutes, hours, days, months, or years ago.
