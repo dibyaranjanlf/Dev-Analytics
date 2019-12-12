@@ -4,7 +4,7 @@
 
 Dev Analytics shows projects to which you have access on the Linux Foundation platform. The Projects page includes projects that are members of the Linux Foundation and of other foundations such as the Cloud Native Computing Foundation.
 
-![](https://docs.linuxfoundation.org/download/attachments/7409465/DA%20Projects.png?version=1&modificationDate=1566927060899&api=v2)
+![](../.gitbook/assets/log-in%20%282%29.png)
 
 **Follow these steps:**
 
