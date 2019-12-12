@@ -14,11 +14,11 @@ After you add a filter, you can manage it by applying quick actions on the filte
 
 1. On a dashboard, click **Add a filter +**. ****The Add filter dialog appears.
 2. Click in the **Filter** field and:
-   * Add filters from the Fields drop-down list. ![](../.gitbook/assets/7405882.png)  
+   * Add filters from the Fields drop-down list. ![](../.gitbook/assets/addfilter.png)  
    * Type a filter value in the **Filter** field. The Add filter dialog appears—enter values in the **Filter** and **Label** fields. 
 3. Click **Edit Query DSL** to build a filter using using Elasticsearch Query DSL. You can create positive and negative operators and filter on whether or not a field is present. The Label field lets you enter a label value that identifies your filter subject. ![](../.gitbook/assets/7405883.png) 
 4. Click **Save**. The filter label appears in the Actions bar.
-5. \(Optional\) Cick **Actions** to show the **All filters** options as shown in the following example: ![](../.gitbook/assets/7407137.png)  
+5. \(Optional\) Cick **Actions** to show the **All filters** options as shown in the following example: ![](../.gitbook/assets/actions.png)  
    * **Enable** enables a disabled filter.
    * **Disable** disables the filter without removing it. Diagonal stripes indicate that a filter is disabled.
    * **Pin** pins the filter. Pinned filters persist when you switch contexts. For example, you can pin a filter in one dashboard and it remains in place when you switch to another dashboard. A filter is based on a particular index field—if the indices being searched do not contain the field in a pinned filter, it has no effect.
