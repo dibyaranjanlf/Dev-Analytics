@@ -13,7 +13,9 @@ Identity Management lets you perform actions such as affiliating identities to p
 4. Select a project for which you have been granted access to use Identity Management. Identity Management appears in the menu. If you do not have access, Identity Management does not appear.
 5. Select **Identity Management**.
 
-   The Identity Management Home page appears. A menu ![](../.gitbook/assets/7409319.png) provides the following options:
+   The Identity Management Home page appears.   
+   ![](../.gitbook/assets/identity-management-home-page.png)   
+   A menu provides the following options:
 
    * **Organizations** lists organizations in alphabetical order, lets you search organizations, and add a new organization name.
    * **Profiles** lists profiles by Last Modified in days, lets you search profiles, and click a profile name to go to the profile information.
