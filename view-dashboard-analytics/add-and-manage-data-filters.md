@@ -8,11 +8,11 @@ After you add a filter, you can manage it by applying quick actions on the filte
 * [Edit a Filter](add-and-manage-data-filters.md#edit-a-filter)
 * [Manage a Filter](add-and-manage-data-filters.md#manage-a-filter)
 
-### Add a Filter
+## Add a Filter
 
 **Do these steps:**
 
-1. On a dashboard, click **Add a filter +**. ****The Add filter dialog appears.
+1. On a dashboard, click **Add a filter +**. _\*\*_The Add filter dialog appears.
 2. Click in the **Filter** field and:
    * Add filters from the Fields drop-down list. ![](../.gitbook/assets/addfilter.png)  
    * Type a filter value in the **Filter** field. The Add filter dialog appears—enter values in the **Filter** and **Label** fields. 
@@ -27,7 +27,7 @@ After you add a filter, you can manage it by applying quick actions on the filte
    * **Toggle** toggles a filter. By default, filters are inclusion filters and display in green. Only elements that match the filter are displayed. To change this to an exclusion filter, displaying only elements that do not match, toggle the filter. Exclusion filters display in red.
    * **Remove** removes the filter.
 
-### Edit a Filter
+## Edit a Filter
 
 The Edit filter option lets you manually update the filter and specify a label for it.
 
@@ -37,7 +37,7 @@ The Edit filter option lets you manually update the filter and specify a label f
 2. Edit the filter by clicking **Edit Query DSL** and following the instructions to edit a filter.
 3. Click **Save**.
 
-### Manage a Filter
+## Manage a Filter
 
 **Do these steps:**
 
