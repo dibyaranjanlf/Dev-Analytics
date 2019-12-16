@@ -9,16 +9,15 @@ Edit a profile to add or update contributor information. For example, you want a
 3. Select **Profiles** from the menu or [find the identity that you want](find-a-profile-or-organization.md).
 
 ![](../.gitbook/assets/edit-profile.png)
-
-    4. Click a **row** that corresponds to a name of interest.  
-         Profile Information appears.  
-    5. Personal Details show Name, E-mail, Bot, and Country.  
-    6. Click **Edit**.  
-        ****The Name, E-mail, and Bot fields become editable.
+4. Click a **row** that corresponds to a name of interest.  
+    Profile Information appears.  
+5. Personal Details show Name, E-mail, Bot, and Country.  
+6. Click **Edit**.  
+   ****The Name, E-mail, and Bot fields become editable.
 
 ![](../.gitbook/assets/edit-profile-info-2%20%281%29.png)
 
-   7. Update any of the Personal Details and click **Save Changes**.
+7. Update any of the Personal Details and click **Save Changes**.
 
 This is the end!!!\(Test content\)
 
