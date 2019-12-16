@@ -9,9 +9,9 @@ Identity Management lets you perform actions such as affiliating identities to p
 
 ![](../.gitbook/assets/log-in%20%282%29.png)
 
-3. Enter your Linux Foundation identity credentials and click **LOG IN**.
-4. Select a project for which you have been granted access to use Identity Management. Identity Management appears in the menu. If you do not have access, Identity Management does not appear.
-5. Select **Identity Management**.
+1. Enter your Linux Foundation identity credentials and click **LOG IN**.
+2. Select a project for which you have been granted access to use Identity Management. Identity Management appears in the menu. If you do not have access, Identity Management does not appear.
+3. Select **Identity Management**.
 
    The Identity Management Home page appears.
 
