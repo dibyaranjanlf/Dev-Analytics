@@ -6,7 +6,7 @@ When contributors are relevant for Dev Analytics analysis, affiliating all the i
 
 ## Your Activities
 
-### [Data Affiliation](data-affiliation.md)
+#### [Data Affiliation](data-affiliation.md)
 
 ### [Request Access to Identity Management](request-access-to-identity-management.md)
 
