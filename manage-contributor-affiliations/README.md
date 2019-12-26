@@ -1,4 +1,4 @@
-# Manage Contributor Affiliations
+# Manage Contributor Affiliations to Check Profile View
 
 When contributors are relevant for Dev Analytics analysis, affiliating all the identities that the person uses is important. Identity Management manages different identities \(examples: email, username\) for each contributor to a project data source. Each contributor has a _profile_. A profile has personal details, and identity and organization affiliations when available. When a profile does not have an affiliation with an identity or organization, their contributions are not counted in various Dev Analytics dashboards. To address this problem, Identity Management manages contributor identities including capabilities for merging identities and other data related to them such as affiliation to organizations. [Identity Management identifies missing affiliations and helps you address them too.](view-and-address-the-top-unaffiliated-contributors-and-domains.md) This way, an analysis has a correct count of contributors in your projects—statistics are accurate because individual contributions are not underestimated.
 
