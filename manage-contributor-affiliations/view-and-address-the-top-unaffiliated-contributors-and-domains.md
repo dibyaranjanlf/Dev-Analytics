@@ -34,6 +34,7 @@ in Top Unaffiliated Domains, look for a domain that belongs to your project. Mis
 1. In Search Organizations, enter the name that matches a Top Unaffiliated Domain of interest and click **search**. Matching domains are listed. When no matching domains are listed, a name that matches the organization name you searched for appears in the Add field:
 
     ![][1]
+    
    
     [1]: ../.gitbook/assets/7409314.png
 
