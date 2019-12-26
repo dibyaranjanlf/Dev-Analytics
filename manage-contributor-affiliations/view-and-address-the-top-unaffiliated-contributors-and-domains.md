@@ -34,8 +34,8 @@ in Top Unaffiliated Domains, look for a domain that belongs to your project. Mis
     ![](../.gitbook/assets/7409314.png)
     
 1. Click **Add** to add the name as a domain affiliated to the organization.
-2. Continue to Add an Organization Affiliation in [Add or Delete a Profile Organization Affiliation](add-or-delete-a-profile-organization-affiliation.md).
-3. Select **Home** and scan Top Unaffiliated Domains. The domain name is no longer listed because you have addressed the missing affiliations.
+1. Continue to Add an Organization Affiliation in [Add or Delete a Profile Organization Affiliation](add-or-delete-a-profile-organization-affiliation.md).
+1. Select **Home** and scan Top Unaffiliated Domains. The domain name is no longer listed because you have addressed the missing affiliations.
 
 **See:**  
 [Example: Address Unaffiliated Domains](example-address-unaffiliated-domains.md)
