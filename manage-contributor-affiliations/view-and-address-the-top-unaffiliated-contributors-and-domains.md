@@ -30,6 +30,9 @@ in Top Unaffiliated Domains, look for a domain that belongs to your project. Mis
 **Do these steps:**
 
 1. In Search Organizations, enter the name that matches a Top Unaffiliated Domain of interest and click **search**. Matching domains are listed. When no matching domains are listed, a name that matches the organization name you searched for appears in the Add field: ![](../.gitbook/assets/7409314.png)
+
+    ![](../.gitbook/assets/test.JPG)
+
 1. Click **Add** to add the name as a domain affiliated to the organization.
 1. Continue to Add an Organization Affiliation in [Add or Delete a Profile Organization Affiliation](add-or-delete-a-profile-organization-affiliation.md).
 1. Select **Home** and scan Top Unaffiliated Domains. The domain name is no longer listed because you have addressed the missing affiliations.
