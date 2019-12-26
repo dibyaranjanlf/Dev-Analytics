@@ -2,7 +2,7 @@
 
 * [Dev Analytics Getting Started](README.md)
 * [View Project Details](view-project-details.md)
-* [Manage Contributor Affiliations](manage-contributor-affiliations/README.md)
+* [Manage Contributor Affiliations testing](manage-contributor-affiliations/README.md)
   * [Data Affiliation](manage-contributor-affiliations/data-affiliation.md)
   * [Request Access to Identity Management](manage-contributor-affiliations/request-access-to-identity-management.md)
   * [Sign In to Identity Management](manage-contributor-affiliations/sign-in-to-identity-management.md)
