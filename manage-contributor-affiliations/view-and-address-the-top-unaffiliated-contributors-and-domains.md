@@ -43,7 +43,7 @@ in Top Unaffiliated Domains, look for a domain that belongs to your project. Mis
 **See:**  
 [Example: Address Unaffiliated Domains](example-address-unaffiliated-domains.md)
 
-{% style="info" %}
+{% hint style="info" %}
 Due to a lag in the list refresh, names can remain in a Top Unaffiliated list even after you have addressed the missing affiliation. Check the list again later.
 {% endhint %}
 
