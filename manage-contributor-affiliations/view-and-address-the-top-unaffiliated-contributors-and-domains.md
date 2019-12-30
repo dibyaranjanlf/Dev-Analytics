@@ -1,9 +1,8 @@
-# View and Address the Top Unaffiliated Contributors and Domains with easy walkthrough
+# View and Address the Top Unaffiliated Contributors and Domains
 
 This is ---- Top Unaffiliated Contributors and Top Unaffiliated Domains list the top-ten respective items with the greatest numbers of contributions that have no affiliation. Addressing missing affiliations produces meaningful statistics about your contributors and domains because individual contributions are not underestimated. Different roles \(examples: organization representatives, individual contributors, or community managers\) might recognize that contribution counts seem underestimated or inaccurate. These roles can take action by addressing missing affiliations.
 
-this is for testing purpose!!
-this is another line for testing the integration!
+this is for testing purpose!! this is another line for testing the integration!
 
 **Do these steps:**
 
@@ -34,7 +33,7 @@ in Top Unaffiliated Domains, look for a domain that belongs to your project. Mis
 
 1. In Search Organizations, enter the name that matches a Top Unaffiliated Domain of interest and click **search**. Matching domains are listed. When no matching domains are listed, a name that matches the organization name you searched for appears in the Add field:
 
-    ![](../.gitbook/assets/7409314.png)
+   ![](../.gitbook/assets/7409314.png)
 
 2. Click **Add** to add the name as a domain affiliated to the organization.
 3. Continue to Add an Organization Affiliation in [Add or Delete a Profile Organization Affiliation](add-or-delete-a-profile-organization-affiliation.md).
