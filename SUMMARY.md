@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Dev Analytics Getting Started with great excitement!](README.md)
+* [Dev Analytics Getting Started](README.md)
 * [View Project Details](view-project-details.md)
 * [Manage Contributor Affiliations testing](manage-contributor-affiliations/README.md)
   * [Data Affiliation changes](manage-contributor-affiliations/data-affiliation.md)
