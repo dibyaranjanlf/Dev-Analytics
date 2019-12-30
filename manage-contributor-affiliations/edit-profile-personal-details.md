@@ -10,7 +10,7 @@ Edit a profile to add or update contributor information. For example, you want a
 
 ![](../.gitbook/assets/edit-profile.png)
 
- 4. Click a **row** that corresponds to a name of interest.  
+4. Click a **row** that corresponds to a name of interest.  
         Profile Information appears.  
 5. Personal Details show Name, E-mail, Bot, and Country.   
 6. Click **Edit**.  
