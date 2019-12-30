@@ -10,7 +10,7 @@ another content here!
 
 ## Get Started <a id="id-.DevAnalyticsGettingStartedvInitial-GetStarted"></a>
 
-* \*\*\*\*[**View Project Details**](view-project-details.md)\*\*\*\*
+* \*\*\*\*[**View Project Details**](view-project-deetTails.md)\*\*\*\*
 * \*\*\*\*[**Manage Contributor Affiliations**](manage-contributor-affiliations/)\*\*\*\*
 * \*\*\*\*[**View Dashboard Analytics**](view-dashboard-analytics/)\*\*\*\*
 * \*\*\*\*[**View Dashboard Use Case Examples**](view-dashboard-use-case-examples/)\*\*\*\*
