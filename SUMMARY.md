@@ -3,7 +3,7 @@
 * [Dev Analytics Getting Started with great excitement!](README.md)
 * [View Project Details](view-project-details.md)
 * [Manage Contributor Affiliations testing](manage-contributor-affiliations/README.md)
-  * [Data Affiliation](manage-contributor-affiliations/data-affiliation.md)
+  * [Data Affiliation changes](manage-contributor-affiliations/data-affiliation.md)
   * [Request Access to Identity Management](manage-contributor-affiliations/request-access-to-identity-management.md)
   * [Sign In to Identity Management](manage-contributor-affiliations/sign-in-to-identity-management.md)
   * [View and Address the Top Unaffiliated Contributors and Domains](manage-contributor-affiliations/view-and-address-the-top-unaffiliated-contributors-and-domains.md)
