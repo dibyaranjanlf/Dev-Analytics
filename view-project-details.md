@@ -1,4 +1,4 @@
-# View Project Details with an Ease
+# View Project Details
 
 Dev Analytics shows projects to which you have access on the Linux Foundation platform. The Projects page includes projects that are members of the Linux Foundation and of other foundations such as the Cloud Native Computing Foundation.
 
